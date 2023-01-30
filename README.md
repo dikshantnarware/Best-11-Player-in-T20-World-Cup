@@ -1,6 +1,7 @@
 # Best-11-Player-in-T20-World-Cup
 <h1 align="center">Hi 👋, I'm Dikshant Narware</h1>
 <h3 align="center">A passionate Data Scienctist from India</h3>
+![project cricket](https://user-images.githubusercontent.com/104089564/215610772-3b493b24-a8a9-4cee-b34f-37c1a784fc18.gif)
 
 - 🔭 I’m currently working on **ML Model**
 
